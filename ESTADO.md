@@ -106,3 +106,11 @@ desde esa carpeta, y revisar `prospecting_log.txt`.
 - Permitir crear `prospeccion-auto\.venv` e instalar `requirements.txt` (requests, bs4, python-dotenv).
 - OK para recrear tareas programadas (lunes/martes 8:00) apuntando a `.venv\Scripts\python.exe`.
 - OK para crear repo GitHub privado.
+
+## 2026-11-24 — Entorno prospeccion-auto
+- Venv creado FUERA de Drive (Drive es demasiado lento para venv): `C:\Users\kineb\.venvs\mkf-prospeccion`. Deps OK (requests, bs4, python-dotenv).
+- Prueba real: `prospecting_semanal.py` sale con exit 1 y `ERROR: falta variable de entorno 'AIRTABLE_API_KEY'` (esperado, sin PAT). Ojo: ese error va a stdout, no al log — con Task Scheduler se perdería.
+- Registrar tareas programadas denegado por permisos de Claude: queda `prospeccion-auto\instalar_tareas.ps1` para que David lo ejecute.
+
+### Siguiente acción exacta
+1. David: PAT Airtable en `prospeccion-auto\.env`. 2. David: ejecutar `.\instalar_tareas.ps1`. 3. Probar `C:\Users\kineb\.venvs\mkf-prospeccion\Scripts\python.exe prospecting_semanal.py` y revisar log.
