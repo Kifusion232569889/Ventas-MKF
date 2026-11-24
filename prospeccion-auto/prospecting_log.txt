@@ -1,0 +1,12 @@
+[2026-09-21T00:00:00] PRIMERA EJECUCIÓN — realizada manualmente vía Claude Code + Airtable MCP (no por este script; prospecting_semanal.py se ejecuta por primera vez el próximo lunes vía Task Scheduler).
+  encontrados=muchos (WebSearch, no scraping directo) nuevos_anadidos=10 descartados=0
+  + Sentido Natural
+  + Camí de Salut
+  + Centre Holistic Terapias Naturales
+  + Espai Intern
+  + Sleimy Centro de Salud y Bienestar
+  + OM REIKI Centro de Yoga y Formación en Reiki
+  + Laura Casart
+  + Biodescodificación Barcelona
+  + Annora
+  + Vilaya Medicina Integrativa

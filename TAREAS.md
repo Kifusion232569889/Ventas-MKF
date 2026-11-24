@@ -1,0 +1,33 @@
+# Tareas — Ventas MKF
+
+- [ ] David: revisar y enviar (o no) los 4 borradores de Gmail creados
+      (Attittud, LBconsultores, Sede21, NKIP Consulting).
+- [ ] Resolver ADEAS HR: llamar o usar formulario web (sin email).
+- [ ] Research manual/LinkedIn: Valora RRHH, Human Team Building, Future
+      of People Academy.
+- [ ] Decidir ángulo partnership (no venta directa) para Proarcai y
+      MENDIPS, o descartarlos.
+- [ ] Siguiente batch: continuar con el resto de leads "Alto"/"Medio"
+      fuera de los primeros 10, plan de 7 días original.
+- [ ] Leer `specialized/corporate-training-designer.md` (en
+      agency-agents) si aporta algo al diseño de los módulos de
+      formación que se ofrecen.
+
+## Heredadas de prospeccion-auto (2026-11-24)
+
+- [x] Crear base Airtable "MKF — Leads Prospección B2B" con tablas Centros y Terapeutas /
+      Aliados Estratégicos — no existía, había que crearla de cero — 2026-09-21
+- [x] Primera extracción de 10 Centros/Terapeutas y carga en Airtable — 2026-09-21
+- [x] Primera extracción de 10 Aliados Estratégicos y carga en Airtable — 2026-09-21
+- [x] Escribir prospecting_semanal.py (scraping + dedupe + Airtable) — 2026-09-21
+- [x] Escribir alianzas_semanal.py (scraping + dedupe cross-tabla + Airtable) — 2026-09-21
+- [x] Programar Task Scheduler lunes 8:00 (centros) y martes 8:00 (alianzas) — 2026-09-21
+- [ ] Generar PAT de Airtable y ponerlo en .env — bloqueante para que el cron funcione — 2026-09-21
+- [ ] Revisar calidad de candidatos tras primera ejecución automática (parsers genéricos
+      InfoIsInfo/Guía Consciente son heurísticos) — 2026-09-28 (lunes siguiente)
+- [ ] Decidir cobertura de Google Maps (Places API de pago vs. manual) — sin fecha
+- [ ] Decidir si se sube el repo a GitHub remoto — sin fecha
+
+- [ ] prospeccion-auto: crear .venv e instalar requirements (bloqueado: permiso) — 2026-11-24
+- [ ] prospeccion-auto: recrear tareas programadas lunes/martes 8:00 con python del .venv — 2026-11-24
+- [ ] Repo GitHub privado para Ventas MKF (requiere OK) — 2026-11-24
