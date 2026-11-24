@@ -34,3 +34,4 @@
 - [x] prospeccion-auto: venv + requirements (en C:\Users\kineb\.venvs\mkf-prospeccion) — 2026-11-24
 - [ ] David: ejecutar prospeccion-auto\instalar_tareas.ps1 (registro de tareas denegado a Claude) — 2026-11-24
 - [ ] prospeccion-auto: escribir error de variable de entorno también en el log (hoy solo stdout, se pierde en Task Scheduler) — 2026-11-24
+- [ ] David: OK/no repo GitHub privado — sin remoto no hay push (checkpoint 2026-11-24 solo local) — 2026-11-24

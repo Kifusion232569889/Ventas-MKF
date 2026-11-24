@@ -90,7 +90,7 @@ estratégicos de derivación bidireccional en Barcelona, con carga en Airtable.
 - [2026-09-21] Scheduling con Windows Task Scheduler (`schtasks`) en vez de cron — no hay
   cron nativo en Windows.
 
-#### Siguiente acción exacta
+#### Siguiente acción exacta (OBSOLETA 2026-11-24 — ver "Siguiente acción exacta" al final)
 Generar el PAT de Airtable y pegarlo en `C:\Users\David\Proyectos\mkf-prospeccion\.env`
 (copiar desde `.env.example`). Después, probar en manual: `python prospecting_semanal.py`
 desde esa carpeta, y revisar `prospecting_log.txt`.
@@ -112,5 +112,13 @@ desde esa carpeta, y revisar `prospecting_log.txt`.
 - Prueba real: `prospecting_semanal.py` sale con exit 1 y `ERROR: falta variable de entorno 'AIRTABLE_API_KEY'` (esperado, sin PAT). Ojo: ese error va a stdout, no al log — con Task Scheduler se perdería.
 - Registrar tareas programadas denegado por permisos de Claude: queda `prospeccion-auto\instalar_tareas.ps1` para que David lo ejecute.
 
-### Siguiente acción exacta
-1. David: PAT Airtable en `prospeccion-auto\.env`. 2. David: ejecutar `.\instalar_tareas.ps1`. 3. Probar `C:\Users\kineb\.venvs\mkf-prospeccion\Scripts\python.exe prospecting_semanal.py` y revisar log.
+## Cierre de sesión 2026-11-24
+- Commits: `7468d8f` (unificación), `57d3697` (instalador tareas), + este checkpoint. Rama `dev`.
+- Push: NO posible — repo sin remoto. Crear repo GitHub privado requiere OK de David.
+
+## Siguiente acción exacta
+1. David: PAT Airtable en `prospeccion-auto\.env` (copiar `.env.example`).
+2. David: `cd prospeccion-auto; .\instalar_tareas.ps1`.
+3. Claude: `C:\Users\kineb\.venvs\mkf-prospeccion\Scripts\python.exe prospecting_semanal.py` desde `prospeccion-auto\` y revisar `prospecting_log.txt`.
+4. En paralelo (RRHH): David decide enviar o no los 4 borradores Gmail (Attittud, LBconsultores, Sede21, NKIP).
+5. David: OK/no para repo GitHub privado → luego `git remote add` + `git push -u origin dev`.
