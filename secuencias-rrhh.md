@@ -22,7 +22,7 @@ David Bosch, Método KiFusion
 Hola, imagino que no es prioridad ahora. ¿Habéis descartado incorporar el componente emocional a vuestros programas de Desarrollo, o simplemente no es el momento? Cualquiera de las dos respuestas me sirve.
 David Bosch, Método KiFusion
 
-Enviado: D0 [ ] · D3 [ ] · D7 [ ]
+Enviado: D0 [x 2026-11-25] · D3 [ ] · D7 [ ]
 
 ---
 
@@ -42,7 +42,7 @@ David Bosch, Método KiFusion
 Hola, ¿es mala idea que complementemos vuestros programas de ventas con neuroventas, o ya lo tenéis cubierto? Si la respuesta es no, lo entiendo y no insisto más.
 David Bosch, Método KiFusion
 
-Enviado: D0 [ ] · D3 [ ] · D7 [ ]
+Enviado: D0 [x 2026-11-25] · D3 [ ] · D7 [ ]
 
 ---
 
@@ -62,7 +62,7 @@ David Bosch, Método KiFusion
 Hola, ¿habéis decidido que este enfoque no os encaja, o es solo mal momento? Cualquiera de las dos respuestas me ayuda.
 David Bosch, Método KiFusion
 
-Enviado: D0 [ ] · D3 [ ] · D7 [ ]
+Enviado: D0 [x 2026-11-25] · D3 [ ] · D7 [ ]
 
 ---
 
@@ -82,7 +82,7 @@ David Bosch, Método KiFusion
 Hola, ¿es una mala idea sumar una fase de seguimiento a vuestras jornadas, o ya lo resolvéis de otra forma? Si no encaja, me lo decís y lo dejo.
 David Bosch, Método KiFusion
 
-Enviado: D0 [ ] · D3 [ ] · D7 [ ]
+Enviado: D0 [x 2026-11-25] · D3 [ ] · D7 [ ]
 
 ---
 

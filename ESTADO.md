@@ -134,3 +134,11 @@ desde esa carpeta, y revisar `prospecting_log.txt`.
 3. Redactar seguimientos día 3 y día 7 (≤60 palabras, sin enlaces) para esos 4.
 4. David: decide enviar los 4 borradores desde contacto@.
 5. Pendientes heredados: PAT Airtable + `prospeccion-auto\instalar_tareas.ps1`; luego `C:\Users\kineb\.venvs\mkf-prospeccion\Scripts\python.exe prospecting_semanal.py` desde `prospeccion-auto\`.
+
+## 2026-11-25 — Día 0 enviado
+- Enviados desde contacto@metodokifusion.com (Gmail web en Chrome, 11:09-11:10): Attittud, LBconsultores, Sede21, NKIP. Textos en `secuencias-rrhh.md`; método en `guia-mensajes.md`.
+- Gmail/Airtable: sin conectores MCP en esta sesión; se usa Chrome. Borradores viejos de pksdavidbosch@ obsoletos.
+- Día 3 y día 7: NO programados (David solo aprobó día 0). Propuesta: día 3 = 28 nov 9:00, día 7 = 2 dic 9:00, como respuesta en el hilo, con "Programar envío".
+
+## Siguiente acción exacta
+Con OK de David: en Gmail (Enviados) abrir cada hilo día 0, responder con el texto del día 3 de `secuencias-rrhh.md` y programar 28 nov 9:00; luego día 7 para 2 dic 9:00. Revisar respuestas antes: si un lead contesta, cancelar sus seguimientos.

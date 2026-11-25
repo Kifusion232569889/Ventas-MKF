@@ -1,8 +1,7 @@
 # Tareas — Ventas MKF
 
-- [ ] David: revisar y enviar (o no) los 4 borradores de Gmail creados
+- [x] Día 0 enviado a los 4 leads (2026-11-25). Seguimientos día 3/7: pendientes de programar con OK
       (Attittud, LBconsultores, Sede21, NKIP Consulting).
-- [ ] Recrear los 4 borradores en contacto@metodokifusion.com (están en pksdavidbosch@, cuenta equivocada) — requiere conectar Gmail de contacto@ a Composio o pegar textos a mano — 2026-11-25
 - [ ] Resolver ADEAS HR: llamar o usar formulario web (sin email).
 - [ ] Research manual/LinkedIn: Valora RRHH, Human Team Building, Future
       of People Academy.
