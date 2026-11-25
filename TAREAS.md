@@ -13,6 +13,11 @@
       agency-agents) si aporta algo al diseño de los módulos de
       formación que se ofrecen.
 
+- [ ] Airtable: añadir campos "Señal (qué + fecha)", "Seguimiento 1 (día 3)", "Seguimiento 2 (día 7)" a la lista maestra — idea tomada del PDF RelevX — 2026-11-25
+- [ ] Redactar 2 seguimientos por lead (día 3 y día 7, cada uno aporta algo nuevo, ≤60 palabras, sin enlaces) para los 4 borradores — 2026-11-25
+- [ ] Mensaje de petición de recomendaciones para clientes/aliados actuales de MKF (canal referidos para talleres) — 2026-11-25
+- [ ] Probar agente `Outbound Strategist` (agency-agents) para ICP + señales de compra de consultoras RRHH — 2026-11-25
+
 ## Heredadas de prospeccion-auto (2026-11-24)
 
 - [x] Crear base Airtable "MKF — Leads Prospección B2B" con tablas Centros y Terapeutas /
