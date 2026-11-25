@@ -29,6 +29,11 @@ empresas que ya hacen formación/consultoría a otras empresas.
   software propietario — son archivos markdown genéricos (ver
   `agency-agents` repo público), no herramientas con ventaja de datos.
 
+- **Todo mensaje de prospección** (primer contacto, seguimientos,
+  partnership) se escribe siguiendo `guia-mensajes.md` (Camp +
+  neuroventas Klarić: dolor concreto, pregunta orientada al "no").
+  Leerlo antes de redactar. Mensajes genéricos intercambiables = rechazo.
+
 ## Estilo de trabajo con David
 - Cavernícola: respuestas mínimas, sin preámbulo, sin repetir la pregunta.
 - Ejecución autónoma en pasos obvios, sin pedir permiso.
