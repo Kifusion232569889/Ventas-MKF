@@ -1,6 +1,6 @@
 # Tareas — Ventas MKF
 
-- [x] Día 0 enviado a los 4 leads (2026-11-25). Seguimientos día 3/7: pendientes de programar con OK
+- [x] Día 0 enviado a los 4 leads (2026-11-25). Seguimientos día 3 (30 nov) y 7 (3 dic) programados en Gmail 2026-11-25
       (Attittud, LBconsultores, Sede21, NKIP Consulting).
 - [ ] Resolver ADEAS HR: llamar o usar formulario web (sin email).
 - [ ] Research manual/LinkedIn: Valora RRHH, Human Team Building, Future

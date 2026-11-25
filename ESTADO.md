@@ -138,7 +138,9 @@ desde esa carpeta, y revisar `prospecting_log.txt`.
 ## 2026-11-25 — Día 0 enviado
 - Enviados desde contacto@metodokifusion.com (Gmail web en Chrome, 11:09-11:10): Attittud, LBconsultores, Sede21, NKIP. Textos en `secuencias-rrhh.md`; método en `guia-mensajes.md`.
 - Gmail/Airtable: sin conectores MCP en esta sesión; se usa Chrome. Borradores viejos de pksdavidbosch@ obsoletos.
-- Día 3 y día 7: NO programados (David solo aprobó día 0). Propuesta: día 3 = 28 nov 9:00, día 7 = 2 dic 9:00, como respuesta en el hilo, con "Programar envío".
+- Día 3 y día 7 PROGRAMADOS en Gmail (hilos de día 0): D3 lun 30 nov 9:00, D7 jue 3 dic 9:00 (28 nov era sábado, movido a laborable). Si un lead responde, cancelar sus programados en Gmail > Programados.
 
 ## Siguiente acción exacta
-Con OK de David: en Gmail (Enviados) abrir cada hilo día 0, responder con el texto del día 3 de `secuencias-rrhh.md` y programar 28 nov 9:00; luego día 7 para 2 dic 9:00. Revisar respuestas antes: si un lead contesta, cancelar sus seguimientos.
+1. 30 nov (tras envío de D3): revisar Recibidos de contacto@ por respuestas; si hay, cancelar sus D7 en Gmail > Programados y responder con `guia-mensajes.md`.
+2. David: PAT Airtable en `prospeccion-auto\.env` + ejecutar `instalar_tareas.ps1`.
+3. Decidir segmento nuevo "empresas que contratan formadores" (perfil propuesto en chat 2026-11-25) y OK repo GitHub privado.
