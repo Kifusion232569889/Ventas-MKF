@@ -11,9 +11,10 @@ empresas que ya hacen formación/consultoría a otras empresas.
   maestra de leads (63 registros). Campos clave: Contacto, Mensaje borrador,
   Notas, estado (Por contactar / Descartado).
 - **Apollo.io**: plan gratuito, usado para research inicial de empresas.
-- **Gmail**: conectado vía Composio (`pksdavidbosch@gmail.com`, cuenta PKS,
-  no MKF — los borradores llevan firma MKF pero salen desde correo de
-  logística; David lo acepta así por ahora).
+- **Gmail**: remitente correcto = `contacto@metodokifusion.com` (corrección
+  de David 2026-11-25). Composio estaba conectado a `pksdavidbosch@gmail.com`
+  (PKS, logística): NO usar para MKF. Los 4 borradores de 2026-11-24 están
+  en esa cuenta equivocada y hay que recrearlos en contacto@ antes de enviar.
 
 ## Reglas fijas
 - CTA de marketing de MKF: nunca ofrecer sesión/consulta gratis. Solo Taller
