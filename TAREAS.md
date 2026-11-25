@@ -15,7 +15,7 @@
       formación que se ofrecen.
 
 - [ ] Airtable: añadir campos "Señal (qué + fecha)", "Seguimiento 1 (día 3)", "Seguimiento 2 (día 7)" a la lista maestra — idea tomada del PDF RelevX — 2026-11-25
-- [x] Redactar 2 seguimientos por lead (día 3 y día 7) para los 4 borradores — en `seguimientos.md`; revisar contra "Mensaje borrador" de Airtable antes de enviar — 2026-11-25
+- [x] Redactar 2 seguimientos por lead (día 3 y día 7) para los 4 borradores — en `secuencias-rrhh.md` (día 0, 3 y 7 de los 4 leads, todo junto) — 2026-11-25
 - [ ] Mensaje de petición de recomendaciones para clientes/aliados actuales de MKF (canal referidos para talleres) — 2026-11-25
 - [ ] Probar agente `Outbound Strategist` (agency-agents) para ICP + señales de compra de consultoras RRHH — 2026-11-25
 

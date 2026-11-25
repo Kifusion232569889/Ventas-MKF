@@ -32,4 +32,4 @@ Todo mensaje de prospección (primer contacto, seguimientos, partnership) se esc
 - [ ] ¿Aporta algo nuevo respecto al mensaje anterior?
 - [ ] ¿Sin afirmaciones no verificadas?
 
-Ejemplos aplicados: `seguimientos.md`.
+Ejemplos aplicados: `secuencias-rrhh.md`.
