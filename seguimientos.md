@@ -1,41 +1,41 @@
-# Seguimientos RRHH — 4 leads (2026-11-25)
+# Seguimientos RRHH — 4 leads (v2, 2026-11-25)
 
-Remitente: contacto@metodokifusion.com. Enviar como respuesta al hilo del primer mensaje (mismo asunto con "Re:").
-Reglas: ≤60 palabras, sin enlaces, un CTA (charla de 15 min), cada uno aporta algo nuevo.
-Nota: textos de los primeros mensajes no leídos (Airtable no expone el campo); basados en la señal anotada en ESTADO.md. Revisar contra "Mensaje borrador" antes de enviar.
+Remitente: contacto@metodokifusion.com. Responder en el hilo del primer mensaje.
+Método: Jim Camp (preguntas orientadas al "no", sin presión, permiso para decir que no) + neuroventas Klarić (se decide con la emoción, se justifica con la razón; hablar del dolor, no de la oferta).
+Reglas: ≤60 palabras, sin enlaces, un CTA (charla de 15 min). Antes de enviar, contrastar con "Mensaje borrador" de Airtable (no leído).
 
-## Attittud — info@attittud.com — señal: línea de Desarrollo
+## Attittud — info@attittud.com — Desarrollo
 **Día 3**
-Hola, retomo mi mensaje anterior. Un dato concreto: en nuestras intervenciones con equipos trabajamos la regulación emocional bajo presión, algo que los programas de desarrollo suelen dejar fuera y que condiciona el rendimiento real. ¿Os encaja una charla de 15 minutos esta semana?
+Hola, ¿sería una mala idea hablar de por qué muchos programas de desarrollo se aplauden en la sala y se olvidan el lunes? Lo racional convence, pero la conducta cambia cuando se toca la emoción. Es lo que trabajamos con equipos. ¿Os parece mal una charla de 15 minutos?
 David Bosch, Método KiFusion
 
 **Día 7**
-Hola, os escribo por última vez. Si ahora no es el momento, ¿hay alguien en vuestra línea de Desarrollo a quien convenga dirigirme? Si más adelante queréis explorar neurocoaching para equipos, una charla de 15 minutos nos basta.
+Hola, imagino que no es prioridad ahora. ¿Habéis descartado incorporar el componente emocional a vuestros programas de Desarrollo, o simplemente no es el momento? Cualquiera de las dos respuestas me sirve.
 David Bosch, Método KiFusion
 
-## LBconsultores — soporte@lb-consultores.com — señal: premio liderazgo TTI 2024
+## LBconsultores — soporte@lb-consultores.com — liderazgo en ventas TTI
 **Día 3**
-Hola, retomo mi mensaje anterior. Los informes TTI dicen cómo es cada persona; lo que más cuesta es sostener el cambio de conducta en el día a día. Ahí aportamos neurocoaching ejecutivo, como complemento a lo que ya hacéis. ¿Charla de 15 minutos esta semana?
+Hola, ¿os suena el vendedor que conoce su perfil TTI de memoria y aun así sigue sin cerrar? El perfil explica cómo es; no qué siente delante del "no" del cliente. Esa es la parte neurológica de la venta. ¿Os resultaría absurdo explorarlo 15 minutos?
 David Bosch, Método KiFusion
 
 **Día 7**
-Hola, último mensaje por mi parte. Si el momento no es el adecuado, ¿con quién de vuestro equipo conviene hablar de colaboraciones con otros especialistas? Y si queréis, una charla de 15 minutos más adelante.
+Hola, ¿es mala idea que complementemos vuestros programas de ventas con neuroventas, o ya lo tenéis cubierto? Si la respuesta es no, lo entiendo y no insisto más.
 David Bosch, Método KiFusion
 
-## Human Resources by Sede21 — sede21@sede21.com — señal: programas de liderazgo
+## Human Resources by Sede21 — sede21@sede21.com — liderazgo
 **Día 3**
-Hola, retomo mi mensaje anterior. En liderazgo, lo que más mueve el rendimiento del equipo suele ser cómo gestiona el líder su propio estado bajo presión. Es el eje de nuestro neurocoaching ejecutivo. ¿Os viene bien una charla de 15 minutos esta semana?
+Hola, ¿qué pasa con un directivo brillante que, bajo presión, deja de escuchar? No es falta de técnica: el cerebro pasa a modo defensa. Trabajamos ese momento con neurocoaching ejecutivo. ¿Sería descabellado dedicarle 15 minutos a ver si encaja con vuestros programas?
 David Bosch, Método KiFusion
 
 **Día 7**
-Hola, os escribo por última vez. Si no es el momento, ¿quién se ocupa de incorporar nuevos enfoques a vuestros programas de liderazgo? Os lo agradezco y, cuando queráis, una charla de 15 minutos.
+Hola, ¿habéis decidido que este enfoque no os encaja, o es solo mal momento? Cualquiera de las dos respuestas me ayuda.
 David Bosch, Método KiFusion
 
-## NKIP Consulting — info@nkipconsulting.com — señal: jornadas team building DISC/TTI
+## NKIP Consulting — info@nkipconsulting.com — team building DISC/TTI
 **Día 3**
-Hola, retomo mi mensaje anterior. Tras una jornada de team building, el reto es que lo aprendido se mantenga en el equipo. Nosotros diseñamos intervenciones de seguimiento que ayudan a consolidarlo. ¿Os encaja una charla de 15 minutos esta semana?
+Hola, ¿qué queda de una jornada de team building una semana después? Suele quedar la emoción del día, no el cambio. Diseñamos la continuidad: pequeñas intervenciones que anclan lo vivido en el cerebro del equipo. ¿Os parece mal una charla de 15 minutos?
 David Bosch, Método KiFusion
 
 **Día 7**
-Hola, último mensaje por mi parte. Si ahora no encaja, ¿hay alguien en NKIP a quien convenga dirigirme para propuestas de continuidad tras vuestras jornadas? Y si no, una charla de 15 minutos cuando os venga bien.
+Hola, ¿es una mala idea sumar una fase de seguimiento a vuestras jornadas, o ya lo resolvéis de otra forma? Si no encaja, me lo decís y lo dejo.
 David Bosch, Método KiFusion
