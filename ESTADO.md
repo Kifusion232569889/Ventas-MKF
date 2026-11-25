@@ -116,9 +116,21 @@ desde esa carpeta, y revisar `prospecting_log.txt`.
 - Commits: `7468d8f` (unificación), `57d3697` (instalador tareas), + este checkpoint. Rama `dev`.
 - Push: NO posible — repo sin remoto. Crear repo GitHub privado requiere OK de David.
 
+## 2026-11-25
+- Analizado PDF RelevX "Buscador de clientes" (lead magnet de @adriamora_). Veredicto: no instalar; copiar seguimientos día 3/7, columna "Señal", mensaje de recomendaciones, sin enlaces en 1er mensaje. Quitar su línea promo a relevx.com si se reutiliza. Tareas añadidas a TAREAS.md.
+- **Corrección de remitente**: el correo de MKF es `contacto@metodokifusion.com`. Los 4 borradores de 2026-11-24 se crearon en `pksdavidbosch@gmail.com` (cuenta equivocada) y NO están enviados. Hay que recrearlos en contacto@.
+- David conectó Gmail (contacto@) pero la sesión no cargó los conectores (se cargan al arrancar). Hace falta sesión nueva.
+- Airtable/Gmail MCP no disponibles en esta sesión.
+- Detectado: `origin` = github.com/Kifusion232569889/Ventas-MKF (antes no había remoto). Ver estado del push en cierre.
+
+## Necesito de David (2026-11-25)
+- Abrir sesión nueva (para cargar Gmail contacto@ y Airtable) y escribir "continúa".
+- Si Gmail no aparece: conectarlo desde `/mcp` en sesión interactiva.
+- PAT de Airtable en `prospeccion-auto\.env`; ejecutar `instalar_tareas.ps1`.
+
 ## Siguiente acción exacta
-1. David: PAT Airtable en `prospeccion-auto\.env` (copiar `.env.example`).
-2. David: `cd prospeccion-auto; .\instalar_tareas.ps1`.
-3. Claude: `C:\Users\kineb\.venvs\mkf-prospeccion\Scripts\python.exe prospecting_semanal.py` desde `prospeccion-auto\` y revisar `prospecting_log.txt`.
-4. En paralelo (RRHH): David decide enviar o no los 4 borradores Gmail (Attittud, LBconsultores, Sede21, NKIP).
-5. David: OK/no para repo GitHub privado → luego `git remote add` + `git push -u origin dev`.
+1. Sesión nueva → verificar que existen herramientas Gmail (contacto@) y Airtable (ToolSearch "gmail", "airtable").
+2. Leer campo "Mensaje borrador" en Airtable (`appCO9VjtNmWej2IZ` / `tblrC5iyTEdaIxQgR`) de Attittud, LBconsultores, Sede21, NKIP; recrear los 4 borradores en contacto@metodokifusion.com; borrar los de la cuenta PKS; confirmar que existen.
+3. Redactar seguimientos día 3 y día 7 (≤60 palabras, sin enlaces) para esos 4.
+4. David: decide enviar los 4 borradores desde contacto@.
+5. Pendientes heredados: PAT Airtable + `prospeccion-auto\instalar_tareas.ps1`; luego `C:\Users\kineb\.venvs\mkf-prospeccion\Scripts\python.exe prospecting_semanal.py` desde `prospeccion-auto\`.
