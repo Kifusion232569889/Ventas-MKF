@@ -140,7 +140,12 @@ desde esa carpeta, y revisar `prospecting_log.txt`.
 - Gmail/Airtable: sin conectores MCP en esta sesión; se usa Chrome. Borradores viejos de pksdavidbosch@ obsoletos.
 - Día 3 y día 7 PROGRAMADOS en Gmail (hilos de día 0): D3 lun 30 nov 9:00, D7 jue 3 dic 9:00 (28 nov era sábado, movido a laborable). Si un lead responde, cancelar sus programados en Gmail > Programados.
 
+## Cierre de sesión 2026-11-25
+- Hecho: guía de mensajes (`guia-mensajes.md`, regla en CLAUDE.md), secuencias D0/D3/D7 de 4 leads (`secuencias-rrhh.md`), D0 enviados 11:09-11:10 desde contacto@, D3 (lun 30 nov 9:00) y D7 (jue 3 dic 9:00) programados en Gmail.
+- Remoto: origin = github.com/Kifusion232569889/Ventas-MKF, rama dev (el "sin remoto" de entradas 2024-11-24 está obsoleto).
+- Fuera de alcance de esta sesión: sin conectores Gmail/Airtable (se usó Chrome); Airtable no se pudo leer.
+
 ## Siguiente acción exacta
-1. 30 nov (tras envío de D3): revisar Recibidos de contacto@ por respuestas; si hay, cancelar sus D7 en Gmail > Programados y responder con `guia-mensajes.md`.
-2. David: PAT Airtable en `prospeccion-auto\.env` + ejecutar `instalar_tareas.ps1`.
-3. Decidir segmento nuevo "empresas que contratan formadores" (perfil propuesto en chat 2026-11-25) y OK repo GitHub privado.
+1. 30 nov por la mañana: abrir Gmail contacto@ > Recibidos y buscar respuestas de Attittud, LBconsultores, Sede21, NKIP. Si alguien responde, cancelar sus D7 en Gmail > Programados y redactar respuesta con `guia-mensajes.md`.
+2. David: dar OK al perfil del segmento "empresas que contratan formadores" (ver TAREAS) y decir quién es el tercer autor.
+3. David: PAT Airtable en `prospeccion-auto\.env` + ejecutar `.\instalar_tareas.ps1`.

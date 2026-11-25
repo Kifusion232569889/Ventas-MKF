@@ -35,8 +35,16 @@
 
 - [ ] prospeccion-auto: crear .venv e instalar requirements (bloqueado: permiso) — 2026-11-24
 - [ ] prospeccion-auto: recrear tareas programadas lunes/martes 8:00 con python del .venv — 2026-11-24
-- [ ] Repo GitHub privado para Ventas MKF (requiere OK) — 2026-11-24
+- [x] Repo GitHub para Ventas MKF — origin/dev = Kifusion232569889/Ventas-MKF — 2026-11-25
 - [x] prospeccion-auto: venv + requirements (en C:\Users\kineb\.venvs\mkf-prospeccion) — 2026-11-24
 - [ ] David: ejecutar prospeccion-auto\instalar_tareas.ps1 (registro de tareas denegado a Claude) — 2026-11-24
 - [ ] prospeccion-auto: escribir error de variable de entorno también en el log (hoy solo stdout, se pierde en Task Scheduler) — 2026-11-24
-- [ ] David: OK/no repo GitHub privado — sin remoto no hay push (checkpoint 2026-11-24 solo local) — 2026-11-24
+- [x] OK repo GitHub (hecho en sesión 2026-11-25 anterior) — 2026-11-25
+
+## Sesión 2026-11-25 (cierre)
+- [ ] 30 nov: revisar Recibidos de contacto@ por respuestas; si hay, cancelar sus D7 en Gmail > Programados — D3 sale 30 nov 9:00, D7 3 dic 9:00 — 2026-11-25
+- [ ] Identificar tercer autor ("nelsosn baridot") y añadirlo a `guia-mensajes.md` — pedido por David — 2026-11-25
+- [ ] Segmento nuevo: empresas que contratan consultores/formadores (pymes Catalunya 50-500 emp., señales RRHH/formación/FUNDAE) — tabla "Empresas cliente" en Airtable, primeros 10 — espera OK del perfil — 2026-11-25
+- [ ] Contrastar días 0 enviados con campo "Mensaje borrador" de Airtable (no se pudo leer; sin conector Airtable) y actualizar el campo con los textos reales + señal + D3/D7 — 2026-11-25
+- [ ] Siguiente batch de leads (ADEAS HR, Valora RRHH, Human Team Building, Future of People, Proarcai, MENDIPS): escribir secuencia D0/D3/D7 con `guia-mensajes.md` — 2026-11-25
+- [ ] Reiniciar sesión con conectores Gmail/Airtable cargados (solo cargan al arrancar) — 2026-11-25
